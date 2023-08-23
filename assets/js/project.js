@@ -30,9 +30,9 @@ const projects = [
     Githublink: "https://github.com/thefirsthero/casino",
   },
   {
-    title: "Snake Game",
+    title: "Android Snake Game",
     cardImage: "assets/images/project-page/snake.png",
-    description: "A snake game built using Kotlin.",
+    description: "A snake game built for android, developed using Kotlin.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
     Previewlink: "",
     Githublink: "https://github.com/thefirsthero/android-snake-game",
